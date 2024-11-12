@@ -7,4 +7,4 @@ pip install -r requirements.txt
 启动
 python app.py
 
-![Uploading image.png…]()
+[![Uploading image.png…]()](https://github.com/fhgfhgfj/-/blob/main/%E6%95%88%E6%9E%9C.png)
