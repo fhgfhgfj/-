@@ -1,0 +1,29 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFFFFF;
+}
+
+#colorPicker, #eraserButton {
+    position: fixed;
+    top: 10px;    /* 距离顶部 10px */
+    z-index: 100; /* 确保元素显示在其他元素之上 */
+}
+
+#colorPicker {
+    right: 10px;  /* 颜色选择器距离右侧 10px */
+}
+
+#eraserButton {
+    right: 60px;  /* 橡皮擦按钮距离右侧 60px */
+}
+
+#canvas {
+    border: 1px solid rgba(0, 0, 0, 0.5); /* 设置为半透明黑色边框 */
+    cursor: crosshair;
+}
