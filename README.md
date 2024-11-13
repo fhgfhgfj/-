@@ -7,4 +7,12 @@ pip install -r requirements.txt
 启动
 python app.py
 
+docker镜像
+容器端口是：9191
+拉取 ARM64 镜像：
+docker pull hiit417/pixel-canvas:arm64
+
+拉取 x86 镜像：
+docker pull hiit417/pixel-canvas:x86
+
 ![效果图](https://github.com/fhgfhgfj/-/blob/main/效果.png)
