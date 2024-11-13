@@ -22,5 +22,7 @@ docker pull hiit417/pixel-canvas:x86
 
 echo "" > block_colors.json
 
+体验：https://1f29c8b8.r7.vip.cpolar.cn/
+
 
 ![效果图](https://github.com/fhgfhgfj/-/blob/main/效果.png)
