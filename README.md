@@ -17,4 +17,9 @@ docker pull hiit417/pixel-canvas:arm64
 拉取 x86 镜像：
 docker pull hiit417/pixel-canvas:x86
 
+清空画布数据在根目录执行
+
+echo "" > block_colors.json
+
+
 ![效果图](https://github.com/fhgfhgfj/-/blob/main/效果.png)
