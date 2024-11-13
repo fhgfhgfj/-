@@ -7,6 +7,7 @@ pip install -r requirements.txt
 启动
 python app.py
 
+
 下面是docker镜像
 
 容器端口是：9191
