@@ -7,7 +7,8 @@ pip install -r requirements.txt
 启动
 python app.py
 
-docker镜像
+下面是docker镜像
+
 容器端口是：9191
 
 拉取 ARM64 镜像：
