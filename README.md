@@ -9,6 +9,7 @@ python app.py
 
 docker镜像
 容器端口是：9191
+
 拉取 ARM64 镜像：
 docker pull hiit417/pixel-canvas:arm64
 
